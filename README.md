@@ -104,7 +104,7 @@
                         <ul>
                             <li>8 лет консультирую собственников</li>
                             <li>10+ лет изучаю психологию у лучших бизнес-психологов России </li>
-                            <li>выстроила бизнес-систему в 21 бизнесах, в том числе в международных компаниях</li>
+                            <li>выстроила бизнес-систему в 15 бизнесах, в том числе в международных компаниях</li>
                             <li>Автор системы психоматрицы</li>
                         </ul>
                         <p><strong>Работаю только с собственниками</strong> бизнеса с выручкой от 100 млн ₽/год</p>
@@ -678,5 +678,8 @@ document.querySelectorAll('.service-card, .result-item').forEach(el => {
     el.style.transition = 'all 0.6s ease';
     observer.observe(el);
 });
+<img width="2048" height="2048" alt="logo png" src="https://github.com/user-attachments/assets/3aa31c7a-6f86-4918-af0a-9743588ef602" />
+
+
 
 
